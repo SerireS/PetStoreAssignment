@@ -1,0 +1,24 @@
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.deps.json
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.csprojAssemblyReference.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.AssemblyInfoInputs.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.AssemblyInfo.cs
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.csproj.CoreCompileInputs.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.csproj.CopyComplete
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.deps.json
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.csprojAssemblyReference.cache
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.AssemblyInfoInputs.cache
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.AssemblyInfo.cs
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.csproj.CoreCompileInputs.cache
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.csproj.CopyComplete
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Core\obj\Debug\netcoreapp3.1\PetApp.Core.pdb

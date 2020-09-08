@@ -1,0 +1,8 @@
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core.Entity\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.deps.json
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core.Entity\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core.Entity\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core.Entity\obj\Debug\netcoreapp3.1\PetApp.Core.Entity.AssemblyInfoInputs.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core.Entity\obj\Debug\netcoreapp3.1\PetApp.Core.Entity.AssemblyInfo.cs
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core.Entity\obj\Debug\netcoreapp3.1\PetApp.Core.Entity.csproj.CoreCompileInputs.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core.Entity\obj\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Core.Entity\obj\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb

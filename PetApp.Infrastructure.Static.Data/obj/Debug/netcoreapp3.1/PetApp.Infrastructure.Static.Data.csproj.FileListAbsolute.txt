@@ -1,0 +1,28 @@
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.deps.json
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Core.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.csproj.CopyComplete
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.deps.json
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.dll
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\bin\Debug\netcoreapp3.1\PetApp.Core.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.csprojAssemblyReference.cache
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.AssemblyInfoInputs.cache
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.AssemblyInfo.cs
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.csproj.CoreCompileInputs.cache
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.csproj.CopyComplete
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.dll
+C:\CSharpRepos2\PetStoreAssignment\PetApp.Infrastructure.Static.Data\obj\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.pdb

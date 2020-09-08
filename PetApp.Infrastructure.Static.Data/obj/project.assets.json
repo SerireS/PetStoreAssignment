@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PetApp.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "PetApp.Core.Entity": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PetApp.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PetApp.Core.dll": {}
+        }
+      },
+      "PetApp.Core.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/PetApp.Core.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PetApp.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetApp.Core/1.0.0": {
+      "type": "project",
+      "path": "../PetApp.Core/PetApp.Core.csproj",
+      "msbuildProject": "../PetApp.Core/PetApp.Core.csproj"
+    },
+    "PetApp.Core.Entity/1.0.0": {
+      "type": "project",
+      "path": "../PetApp.Core.Entity/PetApp.Core.Entity.csproj",
+      "msbuildProject": "../PetApp.Core.Entity/PetApp.Core.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "PetApp.Core >= 1.0.0",
+      "PetApp.Core.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jonas\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\CSharpRepos2\\PetStoreAssignment\\PetStoreAssignment\\PetApp.Infrastructure.Static.Data\\PetApp.Infrastructure.Static.Data.csproj",
+      "projectName": "PetApp.Infrastructure.Static.Data",
+      "projectPath": "C:\\CSharpRepos2\\PetStoreAssignment\\PetStoreAssignment\\PetApp.Infrastructure.Static.Data\\PetApp.Infrastructure.Static.Data.csproj",
+      "packagesPath": "C:\\Users\\Jonas\\.nuget\\packages\\",
+      "outputPath": "C:\\CSharpRepos2\\PetStoreAssignment\\PetStoreAssignment\\PetApp.Infrastructure.Static.Data\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\CSharpRepos2\\PetStoreAssignment\\PetStoreAssignment\\PetApp.Core.Entity\\PetApp.Core.Entity.csproj": {
+              "projectPath": "C:\\CSharpRepos2\\PetStoreAssignment\\PetStoreAssignment\\PetApp.Core.Entity\\PetApp.Core.Entity.csproj"
+            },
+            "C:\\CSharpRepos2\\PetStoreAssignment\\PetStoreAssignment\\PetApp.Core\\PetApp.Core.csproj": {
+              "projectPath": "C:\\CSharpRepos2\\PetStoreAssignment\\PetStoreAssignment\\PetApp.Core\\PetApp.Core.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

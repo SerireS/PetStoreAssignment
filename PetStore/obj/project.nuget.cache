@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "r7NcAL5Kyo0sjqeYaupfxNy1z74Q4vfVPK5ULDeMgGv1S/0J6m/BHYxCaqm4WcFALbHGC9fZSr6PdhUyxzsu4w==",
+  "success": true,
+  "projectFilePath": "C:\\CSharpRepos2\\PetStoreAssignment\\PetStoreAssignment\\PetStore\\PetStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jonas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.7\\microsoft.extensions.dependencyinjection.3.1.7.nupkg.sha512",
+    "C:\\Users\\Jonas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

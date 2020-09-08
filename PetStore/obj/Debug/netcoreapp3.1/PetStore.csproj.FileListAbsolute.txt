@@ -1,0 +1,66 @@
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csprojAssemblyReference.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.AssemblyInfoInputs.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.AssemblyInfo.cs
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.exe
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.deps.json
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.runtimeconfig.json
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.runtimeconfig.dev.json
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csproj.CoreCompileInputs.cache
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csproj.CopyComplete
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.dll
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.pdb
+C:\CSharpRepos\Ny mappe\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.genruntimeconfig.cache
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.exe
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.deps.json
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.runtimeconfig.json
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.runtimeconfig.dev.json
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csprojAssemblyReference.cache
+C:\CSharpRepos2\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.AssemblyInfoInputs.cache
+C:\CSharpRepos2\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.AssemblyInfo.cs
+C:\CSharpRepos2\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csproj.CoreCompileInputs.cache
+C:\CSharpRepos2\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csproj.CopyComplete
+C:\CSharpRepos2\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.genruntimeconfig.cache
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.exe
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.deps.json
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.runtimeconfig.json
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.runtimeconfig.dev.json
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetStore.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.Entity.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Core.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\bin\Debug\netcoreapp3.1\PetApp.Infrastructure.Static.Data.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csprojAssemblyReference.cache
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.AssemblyInfoInputs.cache
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.AssemblyInfo.cs
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csproj.CoreCompileInputs.cache
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.csproj.CopyComplete
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.dll
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.pdb
+C:\CSharpRepos2\PetStoreAssignment\PetStoreAssignment\PetStore\obj\Debug\netcoreapp3.1\PetStore.genruntimeconfig.cache

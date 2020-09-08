@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PetApp.Infrastructure.Static.Data/1.0.0": {
+        "dependencies": {
+          "PetApp.Core": "1.0.0",
+          "PetApp.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "PetApp.Infrastructure.Static.Data.dll": {}
+        }
+      },
+      "PetApp.Core/1.0.0": {
+        "dependencies": {
+          "PetApp.Core.Entity": "1.0.0"
+        },
+        "runtime": {
+          "PetApp.Core.dll": {}
+        }
+      },
+      "PetApp.Core.Entity/1.0.0": {
+        "runtime": {
+          "PetApp.Core.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetApp.Infrastructure.Static.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetApp.Core.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
